@@ -1,0 +1,89 @@
+.content{
+    width: auto;
+    height: auto;
+
+    
+}
+.logo{
+    width: 150px;
+    height: 42px;
+    margin-left: 40px;
+
+
+}
+.img{
+    width: 150px;
+    height: 42px;
+}
+.nav{
+    height:80px;
+    width: 100%;
+    padding-top: 20px;
+    background-color: black ;
+    float: left;
+    
+    
+}
+body{
+    margin: 0px;
+}
+.yazı{
+    margin-left: 250px;
+    margin-top: -35px;
+}
+.yazi2{
+    width: 600px;
+    height: 35px;
+
+    background-image: url('img/yuvarlak.png');
+    background-repeat: no-repeat;
+    background-position:10px;
+}
+.istanbul{
+    float: left;
+    margin-left: 900px;
+    margin-top: -55px;
+    
+}
+.istanbul2{
+    color: aliceblue;
+}
+.istanbul3{
+    text-decoration: none;
+}
+.kaydol{
+    float: right;
+    margin-right: 350px;
+    margin-top: -25px;
+}
+.kaydol3{
+    float: right;
+    margin-right: -100px;
+    margin-top: 0px;
+    font-size: 12px;
+    color: aliceblue;
+    padding-left: 5px;
+}
+
+
+
+.motor{
+    
+    height: 180px;
+    width: 80px;
+    border: 10px double purple;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px1;
+    
+    
+}
+
+.motor1{
+    margin-top: 50px;
+    margin-left: 30px;
+   
+
+}
+
