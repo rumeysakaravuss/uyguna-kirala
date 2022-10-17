@@ -102,12 +102,87 @@ body{
 }
 
 .elektironik1{
-    width: 10opx;
+    width: 100px;
     height: 100px;
-    border: 10px double mediumturquoise;
-    background-color: mediumturquoise;
+    border: 10px double orangered;
+    background-color: orangered;
     border-radius: 300px 300px 300px 300px;
     float: left;
-    margin-left: 50px;
+    margin-left: 20px;
 }
 
+.emlak2{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.emlak1{
+    width: 100px;
+    height: 100px;
+    border: 10px double green;
+    background-color: green;
+    border-radius: 300px 300px 300px 300px;
+    float: left;
+    margin-left: 20px;
+}
+
+.mobilya2{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.mobilya1{
+    width: 100px;
+    height: 100px;
+    border: double turquoise;
+    background-color: turquoise;
+    border-radius: 300px 300px 300px 300px;
+    float: left;
+    margin-left: 20px;
+}
+
+.spor2{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.spor1{
+    width: 100px;
+    height: 100px;
+    border: double darkturquoise;
+    background-color: darkturquoise;
+    border-radius: 300px 300px 300px 300px;
+    float: left;
+    margin-left: 20px;
+}
+
+.kitap2{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.kitap1{
+    width: 100px;
+    height: 100px;
+    border: double lightpink;
+    background-color: lightpink;
+    border-radius: 300px 300px 300px 300px;
+    float: left;
+    margin-left: 20px;
+
+}
+
+.aletler2{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.aletler1{
+    width: 100px;
+    height: 100px;
+    border: double blue;
+    background-color: blue;
+    border-radius: 300px 300px 300px 300px;
+    float: left;
+    margin-left: 20px;
+}
