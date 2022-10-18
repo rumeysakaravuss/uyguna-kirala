@@ -51,11 +51,15 @@ body{
 .istanbul3{
     text-decoration: none;
 }
+
+
 .kaydol{
     float: right;
     margin-right: 350px;
     margin-top: -25px;
 }
+
+
 .kaydol3{
     float: right;
     margin-right: -100px;
@@ -71,42 +75,39 @@ body{
     
     height: 180px;
     width: 80px;
-    
-    
-
 }
+
 
 .motor2{
     width: 100px;
     height: 100px;
-    border: 10px double purple;
-    background-color: purple;
+    border: 10px double rgb(33, 83, 123);
+    background-color:rgb(33, 83, 123);
     border-radius: 300px 300px 300px 300px;
-    margin-left: 50px;
+    margin-left: 80px;
     float: left;
-    margin-top: 10px;
-
-
-
+    margin-top: 65px;
 }
+
 
 .motor1{
     margin-top: 50px;
     margin-left: 30px;
 }
 
+
 .elektironik2{
     margin-top: 50px;
     margin-left: 30px;
     
 }
-
+ 
 .elektironik1{
     width: 100px;
     height: 100px;
-    border: 10px double orangered;
-    background-color: orangered;
-    border-radius: 300px 300px 300px 300px;
+    border: double rgb(255, 204, 0);
+    background-color: rgb(255, 204, 0);
+    border-radius: 50%;
     float: left;
     margin-left: 20px;
 }
@@ -119,9 +120,9 @@ body{
 .emlak1{
     width: 100px;
     height: 100px;
-    border: 10px double green;
-    background-color: green;
-    border-radius: 300px 300px 300px 300px;
+    border: double rgb(4, 70, 17);
+    background-color:rgb(4, 70, 17);
+    border-radius: 50%;
     float: left;
     margin-left: 20px;
 }
@@ -182,7 +183,52 @@ body{
     height: 100px;
     border: double blue;
     background-color: blue;
-    border-radius: 300px 300px 300px 300px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 20px;
+}
+
+.dukkan2{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.dukkan1{
+    width: 100px;
+    height: 100px;
+    border: double rgb(255, 0, 140);
+    background-color: rgb(255, 0, 102);
+    border-radius: 50%;
+    float: left;
+    margin-left: 20px;
+}
+
+.moda2{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.moda1{
+    width: 100px;
+    height: 100px;
+    border: double rgb(183, 255, 0);
+    background-color: rgb(183, 255, 0);
+    border-radius: 50%;
+    float: left;
+    margin-left: 20px;
+}
+
+.top2{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.top1{
+    width: 100px;
+    height: 100px;
+    border: double rgb(0, 255, 191);
+    background-color: rgb(0, 255, 191);
+    border-radius: 50%;
     float: left;
     margin-left: 20px;
 }
