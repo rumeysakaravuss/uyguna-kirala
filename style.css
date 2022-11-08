@@ -65,170 +65,38 @@ body{
     margin-right: -100px;
     margin-top: 0px;
     font-size: 12px;
-    color: aliceblue;
+    border: double lightpink;
+    background-color:lightpink;
     padding-left: 5px;
 }
 
+.sekiller{
+    height: 100%;
+    width: 150px;
 
-
-.motor{
-    
-    height: 180px;
-    width: 80px;
 }
 
-
-.motor2{
-    width: 100px;
-    height: 100px;
-    border: 10px double rgb(33, 83, 123);
-    background-color:rgb(33, 83, 123);
-    border-radius: 300px 300px 300px 300px;
-    margin-left: 80px;
-    float: left;
-    margin-top: 65px;
-}
-
-
-.motor1{
-    margin-top: 50px;
-    margin-left: 30px;
-}
-
-
-.elektironik2{
-    margin-top: 50px;
-    margin-left: 30px;
-    
-}
- 
-.elektironik1{
-    width: 100px;
-    height: 100px;
-    border: double rgb(255, 204, 0);
-    background-color: rgb(255, 204, 0);
-    border-radius: 50%;
-    float: left;
-    margin-left: 20px;
-}
-
-.emlak2{
-    margin-top: 50px;
-    margin-left: 30px;
-}
-
-.emlak1{
-    width: 100px;
-    height: 100px;
-    border: double rgb(4, 70, 17);
-    background-color:rgb(4, 70, 17);
-    border-radius: 50%;
-    float: left;
-    margin-left: 20px;
-}
-
-.mobilya2{
-    margin-top: 50px;
-    margin-left: 30px;
-}
-
-.mobilya1{
-    width: 100px;
-    height: 100px;
-    border: double turquoise;
-    background-color: turquoise;
-    border-radius: 300px 300px 300px 300px;
-    float: left;
-    margin-left: 20px;
-}
-
-.spor2{
-    margin-top: 50px;
-    margin-left: 30px;
-}
-
-.spor1{
-    width: 100px;
-    height: 100px;
-    border: double darkturquoise;
-    background-color: darkturquoise;
-    border-radius: 300px 300px 300px 300px;
-    float: left;
-    margin-left: 20px;
-}
 
 .kitap2{
     margin-top: 50px;
     margin-left: 30px;
+
+    
 }
 
 .kitap1{
     width: 100px;
     height: 100px;
-    border: double lightpink;
-    background-color: lightpink;
     border-radius: 300px 300px 300px 300px;
+    margin-top: 20px; 
     float: left;
-    margin-left: 20px;
-
-}
-
-.aletler2{
-    margin-top: 50px;
     margin-left: 30px;
+    
+
 }
 
-.aletler1{
-    width: 100px;
-    height: 100px;
-    border: double blue;
-    background-color: blue;
-    border-radius: 50%;
-    float: left;
-    margin-left: 20px;
-}
+.kitap{
+    width: 1500px;
+    height:auto;
 
-.dukkan2{
-    margin-top: 50px;
-    margin-left: 30px;
-}
 
-.dukkan1{
-    width: 100px;
-    height: 100px;
-    border: double rgb(255, 0, 140);
-    background-color: rgb(255, 0, 102);
-    border-radius: 50%;
-    float: left;
-    margin-left: 20px;
-}
-
-.moda2{
-    margin-top: 50px;
-    margin-left: 30px;
-}
-
-.moda1{
-    width: 100px;
-    height: 100px;
-    border: double rgb(183, 255, 0);
-    background-color: rgb(183, 255, 0);
-    border-radius: 50%;
-    float: left;
-    margin-left: 20px;
-}
-
-.top2{
-    margin-top: 50px;
-    margin-left: 30px;
-}
-
-.top1{
-    width: 100px;
-    height: 100px;
-    border: double rgb(0, 255, 191);
-    background-color: rgb(0, 255, 191);
-    border-radius: 50%;
-    float: left;
-    margin-left: 20px;
-}
