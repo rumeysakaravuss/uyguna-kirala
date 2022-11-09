@@ -71,34 +71,96 @@ body{
 .sekiller{
     height: 100%;
     width: 150px;
+    display: flex;
+    flex-direction: row;
 
 }
 
+.motor{
+    background-color: red;
+    
+    border: double red;
+}
+
+.elektironik{
+    background-color: aqua;
+    border: double aqua;
+}
+
+.emlak{
+    background-color: #ff4040;
+    border: double #ff4040;
+}
+
+.mo{
+    background-color: #14ffeb;
+    border: double #14ffeb ;
+}
+
+.spor{
+    background-color: #745aaf;
+    border: double #745aaf;
+}
+
+.defter{
+    background-color: #e0e03e;
+    border: double #e0e03e;
+}
+
+.aletler{
+    background-color: #18c400;
+    border: double#18c400;
+}
+
+.dükkan{
+    background-color: #148aff;
+    border: double #148aff;
+}
+
+.moda{
+    background-color: #f99900;
+    border: double #f99900;
+}
 
 .kitap2{
-    margin-top: 50px;
-    margin-left: 30px;
+
 
     
 }
+.iconItem{
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    
 
+
+
+}
 .kitap1{
     width: 100px;
     height: 100px;
-    border-radius: 300px 300px 300px 300px;
-    margin-top: 20px; 
+    border-radius:50%;
     border: double lightpink;
     background-color:lightpink;
-    float: left;
-    margin-left: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
     
+    
+
+
 
 }
 
 .kitap{
-    width: 1500px;
+    width:1500px;
     height:auto;
 }
+
 
 .foto1{
     width: auto;
@@ -109,14 +171,73 @@ body{
     margin-top: 50px;
 }
 
-.mobilya2{
-    margin-top: 30px;
+.conteiner{
+    height: auto;
+    width:250px;
+    display: flex;
+    flex-direction: row;
     margin-left: 50px;
+
 }
 
-.mobilya1{
-    float: left;
-}
+
+
+
 .mobilya{
-    float: left;
+    border: 1px solid black;
+    margin:0px 10px 0px;
+    margin-left: -10px;
+    margin-top: 30px;
 }
+
+.mobilya2{
+    padding: 15px;
+}
+
+.sandalye{
+    margin: 0px 10px 0px;
+    margin-top: 30px;
+    border: 1px solid black;
+
+}
+
+.sandalye2{
+    padding: 15px;
+}
+
+.esya{
+    margin: 0px 10px 0px;
+    margin-top: 30px;
+    border: 1px solid black;
+}
+
+.esya2{
+    padding: 15px;
+}
+
+.koltuk{
+    margin: 0px 10px 0px;
+    margin-top: 30px;
+    border: 1px solid black;
+}
+
+.koltuk2{
+    padding: 15px;
+}
+
+.fiyat{
+    background-color:gray ;
+    margin-left: 15px;
+    padding: 5px;
+    border-radius: 50px;
+}
+
+.yazi{
+    display: flex;
+
+}
+
+.transfer{
+    margin-left: 15px;
+}
+
