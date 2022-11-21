@@ -134,6 +134,8 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
+    margin-top: 15px;
+    margin-left: 40px;
 }
 
 
@@ -222,5 +224,24 @@ body{
 
 .transfer{
     margin-left: 15px;
+    font-size: 19px;
 }
 
+.gezer{
+    margin-left: 15px;
+    font-size: 19px;
+}
+
+.gulet{
+    margin-left: 15px;
+    font-size: 19px;
+}
+
+.yat{
+    margin-left: 15px;
+    font-size: 19px;
+}
+
+.vasıta{
+    margin-left: 15px;
+}
