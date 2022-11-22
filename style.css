@@ -141,9 +141,6 @@ body{
     margin-left: 40px;
 }
 
-
-
-
 .kitap{
     width:1500px;
     height:auto;
@@ -259,4 +256,24 @@ body{
 .depo1{
     margin-left: 15px;
     color: darkgrey;
+}
+
+.profil{
+    float: left;
+}
+
+.yazılar{
+    float: left;
+    font-size: 10px;
+    color: darkgrey;
+}
+
+.ilan{
+    float: left;
+
+}
+
+.profil1{
+    float: left;
+    margin-left: 10px
 }
