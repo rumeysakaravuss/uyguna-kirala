@@ -269,11 +269,28 @@ body{
 }
 
 .ilan{
-    float: left;
-
+  font-size: 15px;
+  
 }
 
 .profil1{
     float: left;
-    margin-left: 10px
+    margin-left: 10px;
 }
+
+.detaylar{
+    font-size: 30px;
+    margin-top: 45px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color:#000059;
+    border-radius: 5px;
+    text-align:center;
+    color: aliceblue;
+}
+
+
+
+
+
+
