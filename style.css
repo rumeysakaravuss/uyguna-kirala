@@ -292,10 +292,7 @@ body{
 .alt{
     width: auto;
     height: 400px;
-    margin: 0px 40px 0px;
-    margin-top: 40px;
-    border: 1px solid black;
-    margin-right: 800px;
+
 
 }
 
@@ -303,11 +300,7 @@ body{
     margin-top: 150px;
     margin-left: 150px;
 
-}
-
-.uygun{
-
-}
+} 
 
 .paragraf{
     font-size: large;
@@ -319,3 +312,48 @@ body{
     margin-left: 150px;
 }
 
+.alt1{
+    width: auto;
+    right: 400px;
+    margin-left: 400px;
+    margin-top: 150px;
+}
+
+.can{
+    font-size: 20px;
+}
+
+.can1{
+    font-size: 15px;
+}
+
+.conteiner3{
+    width: auto;
+    height: 400px;
+    margin: 0px 40px 0px;
+    margin-top: 40px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+.paragraf2{
+    color: #808080 ;
+}
+
+.conteiner4{
+    width: auto;
+    height: 500px;
+    margin-top: 30px;
+}
+
+.son{
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.son1{
+    margin-left: 50px;
+    color: #808080;
+}
