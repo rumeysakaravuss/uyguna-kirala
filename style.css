@@ -363,3 +363,55 @@ body{
 .yazilar3{
     margin-top: 120px;
 }
+
+.telefon1{
+    margin-left: 60px;
+}
+
+.telefon{
+    display: flex;
+    flex-direction: row;
+}
+
+.son3{
+    margin-left: 10px;
+    color: #808080;
+}
+
+.saat{
+    display: flex;
+    flex-direction: row;
+}
+
+.saat1{
+    margin-left: 60px;
+}
+
+.mail{
+    display: flex;
+    flex-direction: row;
+}
+
+.mail1{
+    margin-left: 60px;
+}
+
+.son4{
+    margin-left: 10px;
+    color: #ff6a5a;
+}
+
+.kart{
+    margin-left: 50px;
+}
+
+.in{
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.twit{
+    float: right;
+    margin-top: 20px;
+}
