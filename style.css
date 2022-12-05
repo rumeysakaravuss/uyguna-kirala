@@ -269,8 +269,7 @@ body{
 }
 
 .ilan{
-  font-size: 15px;
-  
+  font-size: 12px;
 }
 
 .profil1{
@@ -414,4 +413,9 @@ body{
 .twit{
     float: right;
     margin-top: 20px;
+}
+
+.sıralama{
+    display: flex;
+    flex-direction: column;
 }
